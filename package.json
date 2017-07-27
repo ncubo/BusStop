@@ -7,11 +7,16 @@
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^0.16.2",
     "native-base": "^2.2.1",
     "react": "16.0.0-alpha.12",
     "react-native": "0.46.3",
     "react-native-loading-spinner-overlay": "^0.5.1"
+=======
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.46.3"
+>>>>>>> 9ef71da547f1e854e3b7bc59a26a5dc4da90f983
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
@@ -21,9 +26,13 @@
     "react-test-renderer": "16.0.0-alpha.12"
   },
   "jest": {
+<<<<<<< HEAD
     "preset": "react-native",
     "transformIgnorePatterns": [
       "node_modules/(?!react-native|native-base-shoutem-theme|@shoutem/animation)"
     ]
+=======
+    "preset": "react-native"
+>>>>>>> 9ef71da547f1e854e3b7bc59a26a5dc4da90f983
   }
 }
