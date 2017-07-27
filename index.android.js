@@ -2,7 +2,7 @@
 
 // Import a library to help create a Component
 import React from 'react';
-import { AppRegistry, View, Text } from 'react-native';
+import { AppRegistry, View } from 'react-native';
 //import Header from './src/components/Header';
 import { Header, Body, Right, Button, Icon, Title, Footer } from 'native-base';
 import StopsList from './src/components/StopsList';
